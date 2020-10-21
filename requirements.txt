@@ -9,3 +9,6 @@ dill
 tensorboardX
 scipy
 opencv-python
+basic-auth
+uuid
+flask
